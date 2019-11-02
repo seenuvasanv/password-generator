@@ -1,0 +1,16 @@
+{
+  "name": "pwd-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "homepage": "https://seenuvasanv.github.io/password-generator",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
